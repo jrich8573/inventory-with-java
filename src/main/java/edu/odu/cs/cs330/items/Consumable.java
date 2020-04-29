@@ -30,7 +30,7 @@ public class Consumable extends Item {
         super(src.name, true); // Is this a hint???
 
         this.effect = src.effect;
-        this.uses  = src.uses;
+        this.uses = src.uses;
     }
 
     /**
